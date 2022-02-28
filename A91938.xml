@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his excellency the Lord Generall Cromwell. A few proposals, relating to civil government. / Humbly offered by John Rogers an unworthy servant of Christ, and preacher of the Gospel now at Tho. Apostles London.</title>
+            <author>Rogers, John, 1627-1665?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91938</idno>
+            <idno type="STC">Wing R1816</idno>
+            <idno type="STC">Thomason 669.f.16[97]</idno>
+            <idno type="STC">ESTC R211692</idno>
+            <idno type="EEBO-CITATION">99870398</idno>
+            <idno type="PROQUEST">99870398</idno>
+            <idno type="VID">163250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163250)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[97])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his excellency the Lord Generall Cromwell. A few proposals, relating to civil government. / Humbly offered by John Rogers an unworthy servant of Christ, and preacher of the Gospel now at Tho. Apostles London.</title>
+                  <author>Rogers, John, 1627-1665?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint place from Wing.</note>
+                  <note>Dated and signed at end: From my study Tho. Apostles 25. day of the second month Ziu. 1653. Jo. Rogers.</note>
+                  <note>Annotation on Thomason copy: "Aprill 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163250:1" rendition="simple:additions"/>
+            <head>TO HIS Excellency the Lord Generall Cromwell.
+A few Propoſals, relating to Civil Government.</head>
+            <byline>
+               <hi>Humbly offered by</hi> John Rogers <hi>an unworthy ſervant of Chriſt, and Preacher of the Goſpel now at</hi> Tho. Apoſtles <hi>London.</hi>
+            </byline>
+            <opener>
+               <salute>RIGHT HONOURABLE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hilſt my <hi>ſoul</hi> is boyling over into <hi>earneſt prayers</hi> to the great <hi>Jehovah</hi> for VViſdome, Counſel, and Courage for you in this exigency of importance, as the great <hi>Deliverer</hi> of his people (through <hi>Gods grace)</hi> out of the <hi>houſe</hi> of <hi>Aegypt,</hi> I am viſited with that word in Exod. 12. 42. <hi>It is a night to be much obſerved unto the Lord for bringing them out of Aegypt; This is that night of the Lord to be obſerved of all the Children of Iſrael in their Generations.</hi> So this is the <hi>day (viz. April.</hi> 20. 1653.) to be <hi>much obſerved</hi> (or <hi>in</hi> Hebr. full of <hi>obſervations)</hi> and the rather for that in the <hi>revolution</hi> of times, the <hi>changes will</hi> run their round out, and then the <hi>Lord</hi> will come to <hi>reigne.</hi> For at as firſt <hi>Iſrael</hi> had no <hi>Governour</hi> but <hi>God,</hi> and next to him <hi>Generals,</hi> as <hi>Moſes, Joſhua,</hi> &amp;c. with their <hi>Officers;</hi> and after that <hi>Judges</hi> and <hi>Synedrions</hi> or <hi>Parliaments</hi> over them, and then <hi>Kings;</hi> So now the <hi>change</hi> is to go back again from <hi>Kings</hi> to <hi>Parliaments,</hi> from <hi>Parliaments</hi> to <hi>Generals,</hi> until we have <hi>Governours</hi> as at the <hi>beginning,</hi> Iſa. 1. 26. and till Chriſt come.</p>
+            <p>But my Lord, my heart is full (with humble thankfulneſſe, and reſentment of the <hi>hopes</hi> you have put us all unto, and to your <hi>Honour</hi> indeed) I am <hi>preſſed</hi> in ſpirit; and ſo are many others (after a <hi>ſolemne meeting</hi> of prayers with hundreds of this <hi>City</hi> at <hi>Tho. Apoſtles London,</hi> about this <hi>change,</hi> and to ſeek God for you) to preſent you with theſe following <hi>Propoſals.</hi>
+            </p>
+            <p n="1">I. That your <hi>Excellency</hi> do chooſe the <hi>men</hi> that muſt governe this <hi>Commonwealth</hi> (being that it is the judgement of many faith<g ref="char:EOLhyphen"/>ful diſcerning <hi>Miniſters,</hi> and others, that you are called thereunto of God.) So <hi>Moſes</hi> did <hi>chooſe</hi> able men to be <hi>Rulers</hi> in <hi>Exod.</hi> 18. <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>I</label> 25, 26. <hi>And they judged the people at all ſeaſons, but the hard cauſes they brought to Moſes.</hi> So that <hi>Moſes.</hi> gave them their <hi>charges</hi> to doe <hi>righteouſly</hi> without <hi>reſpect of perſons,</hi> Deut. 1. 16, 17. And <hi>Joſhua</hi> the next <hi>General</hi> (with's Officers) commanded the <hi>people, Joſh.</hi> 3. 2. and the <hi>Lord</hi> ſaid to <hi>Joſhua</hi> (though in another caſe) <hi>ch.</hi> 4. 2. <hi>Take you twelve men</hi> out of <hi>the people, one of a Tribe, &amp;c.</hi> and ſayes the <hi>text,</hi> Verſ. 14. that <hi>very day</hi> (that <hi>Joſhua</hi> did ſo) <hi>the Lord magnified him in the ſight of all Iſrael,</hi> and they <hi>ſeared him,</hi> as they <hi>feared Moſes</hi> before him. So it is upon our <hi>hearts (Right Honourable)</hi> that God will make you hereby, <hi>Right Honourable</hi> indeed, in the ſight of all his <hi>Iſrael.</hi> After this, <hi>Gideon</hi> (the <hi>General</hi> of that little <hi>Army</hi> of three <hi>Bands,</hi> that deſtroyed the huge <hi>hoſt</hi> of the <hi>Midianites)</hi> was offered by the <hi>Iſraelites</hi> the <hi>Government,</hi> Judg. 8. 22. for hee had won it. And <hi>Nehemtah,</hi> chap. 7. 2. gave <hi>Commiſsions</hi> out to men <hi>fearing God,</hi> to <hi>governe.</hi> And ſo all the <hi>Governours</hi> that ever were victorious (in the word) were either <hi>Rulers</hi> themſelves, or elſe choſen to be ſuch, or elſe choſe ſuch, wherefore we ſay, as <hi>Ezra</hi> 7. 25. <hi>And thou, after the wiſdome of thy God that is in thine hand, ſet Magiſtrates and Judges which may judge all the people that are beyond the River, all ſuch as know the Laws of thy God, and teach thou them that know not.</hi>
+            </p>
+            <p>The ſecond <hi>Propoſal,</hi> as to <hi>number</hi> of <hi>perſons</hi> that ſhall <hi>Governe,</hi> I humbly <hi>propoſe</hi> either a <hi>Synedrin, Parliament,</hi> or <hi>Councel</hi> of ſeven<g ref="char:EOLhyphen"/>ty, or elſe <hi>one of a County.</hi> For that in the <hi>Commonwealth</hi> of <hi>Iſrael</hi> (which is our <hi>beſt patterne)</hi> they had <hi>three ſorts of Courts,</hi> the <hi>Upper</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>II</label> 
+               <hi>Court</hi> (or <hi>Synedrin)</hi> which conſiſted of ſeventy <hi>able (fit) men</hi> joyned with <hi>Moſes, Numb.</hi> 11. 16, 17. <hi>And the Lord ſaid to Moſes, Gather before me</hi> (or in my Name) <hi>ſeventy</hi> (worthy) <hi>men of the Elders of Iſrael, whom thou knoweſt, to be the Elders and Officers over them; For</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>I will come down and talk with thee, and I will take of the ſpirit which is upon thee, and I will put it upon them, and they ſhall bear the burden of the people with thee, &amp;c.</hi> This number anſwers to the <hi>ſeventy,</hi> which at firſt went into <hi>Aegypt, Gen.</hi> 46. 27. <hi>Exod.</hi> 1. 5. <hi>Deut.</hi> 10. 22 and to the <hi>ſeventy Elders</hi> which went up <hi>Mount Sinai,</hi> Exod. 24. 1. 9. Now in this firſt <hi>great Senate,</hi> they ſat in <hi>forme</hi> of an <hi>halfe Circle round;</hi> ſo that the <hi>Naſi</hi> or <hi>Abbeth-Din,</hi> chiefe, or father of the houſe ſat as the <hi>Speaker</hi> in <hi>Parliament</hi> doth, to ſee all before him.</p>
+            <p>The <hi>ſecond</hi> ſort of <hi>Synedrin</hi> was called the <hi>Lower Court, &amp;c.</hi> they were under a <hi>great Senate,</hi> and conſiſted of three and twenty <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>perſons</hi> who ſate in the <hi>City gates,</hi> as <hi>Amos</hi> 5. 5. which Chriſt implies, when he promiſes <hi>the Gates of hell (Councels</hi> and <hi>ſtrength) ſhall not prevail againſt his Church.</hi> So <hi>Deut.</hi> 16. 18. And the third Court conſiſted but of three <hi>Judges</hi> in <hi>ſmal Cities.</hi> But <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+            </p>
+            <p>Secondly, or elſe chooſe one of a <hi>County,</hi> repreſenting that County, as one of <hi>a Tribe</hi> did repreſent the <hi>Tribe,</hi> in <hi>Num.</hi> 1. 4. <hi>And with you there ſhall be a man of every Tribe;</hi> and Verſ. 16. <hi>Theſe were the renowned, i. e.</hi> famous for <hi>abilities</hi> and qualifications, called to <milestone type="tcpmilestone" unit="unspecified" n="2"/> be <hi>Stateſ-men,</hi> or to conſult about matters of State, <hi>Num.</hi> 7. 2. and 16. 2. But if the preſent <hi>juncture</hi> of affairs requires a quicker diſpatch, that in the interim, twelve <hi>Worthies</hi> may be choſen as preſent <hi>Governours,</hi> Joſh. 4. 1. 2. Numb. 14. Deut. 16. 18. Ezra 7. 15. like to <hi>Iſraels</hi> twelve <hi>Judges.</hi>
+            </p>
+            <p>The <hi>third Propoſal,</hi> As to their <hi>Qualifications,</hi> they muſt be <hi>menfearing God, Nehem.</hi> 7. 2. <hi>Exod.</hi> 18. 21. <hi>lovers</hi> of <hi>Truth</hi> and <hi>Ju<g ref="char:EOLhyphen"/>ſtice</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>III</label> Deut. 16. 18. <hi>hating</hi> bribes and <hi>covetouſneſſe</hi> (which corrupt Juſtice) <hi>Deut.</hi> 16. 19. Exod. 28. 21. not <hi>reſpecters of perſons,</hi> Deut. 1. 17. and 16. 19. <hi>Wiſe</hi> (though not politick) and <hi>Underſtanding</hi> in the times and ſeaſons, <hi>Deut.</hi> 1. 13. Searching Gods word, <hi>Dan.</hi> 1. 4. and 9. 2. (As the Jewes <hi>Cachami</hi> wiſemen or <hi>Magiſtrates</hi> doe at this day,) they muſt be <hi>able active men, Exod.</hi> 10. 21. <hi>Gen.</hi> 47. 6. 1 <hi>Chron.</hi> 26. 6. in the things of God, <hi>and at all ſeaſons</hi> ready to hear and <hi>helpe</hi> the oppreſſed, <hi>Exod.</hi> 18. 19, 22. the Greeke is, at <hi>every houre,</hi> (who were wont to ſit from the <hi>daily ſacrifice</hi> in the morning, till the <hi>daily ſacrifice</hi> in the evening (ſo that they began and ended with <hi>Sacrifices</hi> every day:) And then they muſt be <hi>Eaſers of the people</hi> as <hi>Numb.</hi> 11. 17. <hi>Exod</hi> 18. 22. hence the word <hi>Rulers, (Naſi,)</hi> is ſo named of <hi>lifting up,</hi> or <hi>eaſing</hi> the <hi>burthens</hi> of the <hi>people.</hi> And they muſt govern as the <hi>Servants of Jeſus Chriſt, Iſa.</hi> 60. 2, 10, 17. <hi>Rev.</hi> 21. 24. But not as Lords over <hi>Chriſt, Rev.</hi> 4. 10, 11. leaſt <hi>the Nobles be like</hi> Oreb, Judg. 7. 25. <hi>and</hi> Zeeb, <hi>and the Princes as</hi> Zebah <hi>and</hi> Zalmunna, <hi>that take the houſes of God (i.e.</hi> Chriſts <hi>Government</hi> and <hi>Juriſdiction</hi> over <hi>Chur<g ref="char:EOLhyphen"/>ches</hi> and <hi>Conſciences) into their poſſeſsion, Pſ.</hi> 83. 11, 12. Such are (v. 13.) ſet as a <hi>wheel</hi> upon the <hi>run,</hi> till they have <hi>run themſelves all to peeces</hi> (and this was openly declared would be the ruin of this <hi>Parliament</hi> at <hi>Thomas Apoſtles</hi> Febr. 18 (unleſſe God prevented) a day when <hi>we</hi> and the <hi>Navy</hi> were ingaged together all day long. Laſtly, they muſt govern all for God (not too much for man) 2 <hi>Chro.</hi> 196. <hi>Take heed what you doe? for ye govern not for man but for the Lord,</hi> ſaith <hi>Jehoſaphat.</hi> O that! they may be <hi>Moſes's</hi> for <hi>meekneſs!</hi> and for their oft <hi>meeting</hi> and <hi>conferring with God</hi> on the <hi>Mount! Joſhua's</hi> for courage! and <hi>Samuels</hi> for uprightneſſe! and <hi>Davids</hi> for Gods Favorites! and for <hi>figuring out</hi> the coming of <hi>Chriſt!</hi> and <hi>Solomons</hi> for <hi>wiſdome,</hi> and <hi>workers</hi> for Gods latter <hi>Temple!</hi> and <hi>Daniels</hi> for diſcerning the daies wee live in! and <hi>Nehemiah's</hi> for <hi>activity,</hi> and <hi>abillity,</hi> and <hi>builders</hi> up of the <hi>broken wals</hi> of <hi>Jeruſalem;</hi> and then ſhall they in their meaſure make good the <hi>promiſe of Judges as at the firſt,</hi> Iſa. 2. 20. and then the work of the Lord ſhall go on in the hands of <hi>Zerubbabel</hi> with ſhoutings of <hi>grace grace unto it.</hi>
+            </p>
+            <p>The <hi>fourth Propoſal</hi> is, That thoſe who are righteous, and ſpirited for this Government, of <hi>the Worthies</hi> of the late <hi>Parliament</hi> (that <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>IV</label> are without juſt exception) may be owned with <hi>honour, That the righteous ſuffer not with the wicked.</hi>
+            </p>
+            <p>The <hi>fifth Propoſal</hi> is, That the <hi>Rulers</hi> (after they be choſe) be ſet <hi>ſolemnly</hi> and <hi>publickly apart</hi> by <hi>prayers</hi> to God for <hi>their Worke,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Propoſ. </seg>V</label> and his <hi>wiſdome,</hi> as they were wont to doe in <hi>Iſrael,</hi> as <hi>Numb.</hi> 11. 16, 17. <hi>Gather them before me, and I will take of the Spirit which is upon thee, and put it upon them; and ſay to the people ſanctifie your ſelves.</hi> So <hi>Ezra</hi> 9. 23, 24. <hi>So we faſted and beſought our God for this, and he was intreated of us; and then I ſeparated twelve of the cheife,</hi> ſayes he. And although in the <hi>Commonwealth of Iſrael,</hi> they were wont when they ſet them apart for <hi>Governours</hi> to poure out a <hi>horne of oyle,</hi> or elſe <hi>to lay on hands</hi> on each. <hi>Theſe Ceremonies</hi> are now aboliſhed, and yet the <hi>ſignification</hi> of them remains, viz. that there bee ſome <hi>evidence</hi> or other that the <hi>Lord</hi> hath laid his <hi>hand</hi> on them, and hath <hi>poured out his horne of oyle upon their heads,</hi> unto their very <hi>hearts;</hi> I mean his <hi>Unction from on high,</hi> the <hi>holy Spirit,</hi> enduing them with <hi>ſanctified gifts</hi> and <hi>abilities,</hi> ſeparating, and ſetting them <hi>apart</hi> for the worke of <hi>this Government,</hi> by ſuch a meaſure of his <hi>oyle</hi> of <hi>grace,</hi> as ſuites with the <hi>age</hi> wherein we live (i. e. aboundantly more then in former ages.)</p>
+            <p>Theſe <hi>Five Propoſals</hi> (Right Honorable) put in practiſe (with Gods bleſſing) ſhal ſerve as <hi>five fingers</hi> ſor the <hi>Work,</hi> and wil ſhow <hi>that the hand of the Lord is with us;</hi> wherefore <hi>conſult</hi> with the <hi>Saints Deu.</hi> 1: 13. and ſend to all <hi>diſcerning</hi> ſpirited men for their <hi>Propoſals.</hi>
+            </p>
+            <p>And I beſeech your <hi>Excellency</hi> to accept theſe few (at firſt) from a <hi>faithfull Commonwealths man,</hi> one that longs for the day of the Lord Chriſt, and that this <hi>Government</hi> may be a <hi>fore-runner</hi> thereof, and a <hi>preparative</hi> thereunto, theſe <hi>Propoſals</hi> are preſented with the full <hi>ſailes</hi> and <hi>gales</hi> (I hope) of the <hi>Spirit.</hi> Seeing thouſands of glazed eyes are upon you, with <hi>hungry longings</hi> for ſuch a <hi>Government,</hi> as may be moſt intent to make way in theſe <hi>three Nations for that day of Chriſts reign in righteouſneſſe.</hi> That <hi>our mountains may drop downe with new wine, and our hills with milke</hi> Joh. 3. and <hi>great be the day of</hi> Jezreel by this <hi>Government,</hi> is the <hi>ſoule-ſtrug<g ref="char:EOLhyphen"/>gling</hi> and <hi>faith-acting</hi> unfained, and reſolved <hi>prayers</hi> of one who defires nothing of your <hi>Excellency</hi> for himſelfe, but to be </p>
+            <closer>
+               <signed>
+                  <hi>one</hi> of the meaneſt of Your Servants for Chriſt, and this Commonwealth.
+<hi>JO. ROGERS.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my Study</hi> 
+                  <date>Tho. Apoſtles 25. <hi>day of the ſecond Month</hi> Ziu. 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Robert Ibbitſon,</hi> 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
